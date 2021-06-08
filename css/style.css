@@ -1,0 +1,16 @@
+body {
+    background: linear-gradient(
+        90deg,
+        hsla(16, 100%, 76%, 1) 0%,
+        hsla(49, 100%, 81%, 1) 100%
+    );
+    font-family: "Mali", cursive;
+}
+
+/*
+    {"Charcoal":"264653",
+    "Persian Green":"2a9d8f",
+    "Orange Yellow Crayola":"e9c46a",
+    "Sandy Brown":"f4a261",
+    "Burnt Sienna":"e76f51"} 
+*/
